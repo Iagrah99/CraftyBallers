@@ -1,0 +1,12 @@
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 1rem 3rem;
+    color: #fff;
+    background-color: #15152b;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: lightblue;
+}
